@@ -1,7 +1,7 @@
 # README
 About our Flutter Buddy Community
 
-<img src="/flutterbuddies.png" width="200">
+<img src="/flutterbuddies.png" width="200"><img src="/FBTitleCard.png" width="500">
 
 ```dart
 return ListTile(
