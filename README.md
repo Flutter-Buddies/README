@@ -1,7 +1,7 @@
 # README
 About our Flutter Buddy Community
 
-<img src="/flutterbuddies.png" width="200" style="text-alignment:center">
+<img src="/flutterbuddies.png" width="200">
 
 ```dart
 return ListTile(
@@ -82,6 +82,13 @@ The goal for these meetups:
 4. Learn about Flutter and all it offers.
 5. Stay motivated and keep others motivated.
 
+#### Group Projects
+Group projects are open source projects that anyone can contribute, but mainly are headed by the small meetup groups. This gives you something fun to do with other devs and teaches you how to participate in a group project. Be ambitious, build something great, have fun and work with other devs. 
+
+* #group-projects - Here you can propose a new project or discuss which group project you'd like to join. 
+* #github-names - Put your name here to get added to the [Flutter Buddies Github Org](https://github.com/Flutter-Buddies) where our projects reside.
+* Group Project Voice chats are available for discussing a project you are working on. 
+
 #### Flutter Talks (new)
 Flutter talks are regularly scheduled one or few to many ~educational/entertaining~ edutainment talks driven by the community volunteers. Learn about things like state management, IDEs, project architecture, interesting widgets and packages, and anything that someone wants to share.
 
@@ -96,13 +103,6 @@ The monthly mass meetups are for all the Flutter Buddies to come together once a
 
 * Monthly Mass Meetups are held on discord voice chat once a month on the last friday of the month.
 * #mmm-reminder - Get a reminder for the next upcoming MMM. **You will need to subscribe for the reminder EACH month**
-
-#### Group Projects
-Group projects are open source projects that anyone can contribute, but mainly are headed by the small meetup groups. This gives you something fun to do with other devs and teaches you how to participate in a group project. Be ambitious, build something great, have fun and work with other devs. 
-
-* #group-projects - Here you can propose a new project or discuss which group project you'd like to join. 
-* #github-names - Put your name here to get added to the [Flutter Buddies Github Org](https://github.com/Flutter-Buddies) where our projects reside.
-* Group Project Voice chats are available for discussing a project you are working on. 
 
 #### Streaming Channels 
 Streaming channels are for anyone to stream their coding or gaming or whatever. Chat is available.
