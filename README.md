@@ -49,7 +49,7 @@ Be a leader! Join our leadership team, just let the admins know you're intereste
 ### Public Channels
 These channels are open to anyone that comes to the server, you don't have to "join" to participate in these and to watch the talks or streams. 
 
-* **#lounge** - I don't need to explain the concept of a lounge channel, do I?
+* **#lounge** - General chat
 * **#tutorials** - Post and find Flutter and mobile dev related tutes from all over.
 * **#articles-videos** - Post and find Flutter and mobile dev related articles and videos from all over.
 * **#memes** - For funny pictures of cats and stuff
@@ -61,7 +61,7 @@ These channels are open to anyone that comes to the server, you don't have to "j
 ### Member Only Channels
 These channels are locked from the public, we want you to at least consider being a part of the various group opportunities to enjoy these channels. 
 
-* **#member-lounge** - like #lounge but more exclusive. A VIP lounge if you will.
+* **#member-lounge** - like #lounge but for the Flutter Buddies only.
 * **#personal-goals** - Post your weekly, monthly, yearly, life goals. We'll help to keep you on track.
 * **#project-showcase** - Show off your apps or other projects. We're happy to give feedback if requested, but you're more likely to get feedback in meetups.
 * **#app-ideas** - Talk about app ideas, use this to test your theories.
@@ -101,7 +101,7 @@ Group projects are open source projects that anyone can contribute, but mainly a
 * Group Project Voice chats are available for discussing a project you are working on. 
 
 ### Flutter Talks
-(**NEW**) Flutter talks are regularly scheduled one or few to many ~educational/entertaining~ edutainment talks driven by the community volunteers. Learn about things like state management, IDEs, project architecture, interesting widgets and packages, and anything that someone wants to share.
+(**NEW**) Flutter talks are regularly scheduled one or few to many edutainment talks driven by the community volunteers. Learn about things like state management, IDEs, project architecture, interesting widgets and packages, and anything that someone wants to share.
 
 * Flutter talks are open to non-members to watch, but to ask questions or chat, you must be a member (see #welcome)
 * **#talks-calendar and #talks-reminders** are there for you to find a talk you're interested in and click the :white_check_mark: to get a PM reminder notification 15 minutes prior to talk.
