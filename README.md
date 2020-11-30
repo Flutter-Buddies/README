@@ -13,6 +13,7 @@ return ListTile(
 ## Table of contents
 
 - [About Us](#about-us)
+- [Social Media](#social-media)
 - [Channels And Their Purpose](#channels-and-their-purpose)
      - [Server Channels](#server-channels)
      - [Public Channels](#public-channels)
@@ -33,8 +34,12 @@ Think of it like a study group on steroids for flutter devs. The core of our com
 
 **TO JOIN**: Head over to our server at the link below and follow the instructions at #welcome to learn how to unlock all the chocolatey server goodness. 
 Use our vanity URL that redirects to our discord invite at http://FlutterBuddies.com
+Be a leader! Join our leadership team, just let the admins know you're interested, no experience needed, just be involved
 
-Be a leader! Join our leadership team, just let the admins know you're interested, no experience needed, just be involved.
+## Social Media
+
+[YouTube](https://www.youtube.com/channel/UCxBpCSJUJFj26S-4KwNNR1w)
+[Twitter](https://twitter.com/Flutter_Buddies)
 
 ## Channels And Their Purpose
 
