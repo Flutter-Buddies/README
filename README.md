@@ -81,9 +81,11 @@ These channels are locked from the public, we want you to at least consider bein
 * **#flutter-jobs** - post and find jobs in Flutter.
 
 ### Group Channels
-Group channels are the heart and soul of the community. This is what brings us closer together as a indie developers. This is where the magic happens and it's fun!
+Group channels are the heart and soul of the community. This is what brings us closer together as developers. This is where the magic happens and it's fun!
 
 **Remember: This concept works best if you get to know one another, you help one another out, and you keep each other on task. The best way to accomplish this is to go to meetups regularly and to be involved in the conversation.**
+
+Check out [Meetup Calendar](#meetup-calendar) below to see the current schedule of weekly meetups.
 
 * **#join-group** - pick out a group or groups that have a time that works for you and "join" by selecting the right emoji to the bot message. You can join any group meeting without joining here, but using this will give you the ability to get group specific communications. 
 * **#group-board** - Not sure which group to join? Want to ask a question about groups? Check here. Check out the other group's chats or join a few meetups before deciding. Up to you.
