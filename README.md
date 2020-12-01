@@ -39,7 +39,7 @@ Be a leader! Join our leadership team, just let the admins know you're intereste
 
 ## Social Media
 
-[YouTube](https://www.youtube.com/channel/UCxBpCSJUJFj26S-4KwNNR1w)
+[YouTube](https://www.youtube.com/channel/UCxBpCSJUJFj26S-4KwNNR1w)  
 [Twitter](https://twitter.com/Flutter_Buddies)
 
 ## Channels And Their Purpose
