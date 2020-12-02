@@ -31,7 +31,11 @@ return ListTile(
 
 Flutter Buddies is a discord community for Flutter developers using **regular online meetups** to help and motivate others with their flutter journey and in return receive help and motivation on yours.
 
-Think of it like a study group on steroids for flutter devs. The core of our community is based on the regular small group meetups and getting to know and help other Flutter devs, no matter your background. We have set weekly timed meetups to get together on discord voice chat and discuss our projects, problems we're facing, suggestions, and more. The channel acts as a way to interact between meetups. *This concept works best if we get to know each other a little, give some commitment to the group, be present, and be willing to give back to the group when you can.* Interactivity is key to your success here! Being a part of the active group will help you find a core group of people to help you and for you to grow with as a Flutter dev. You are welcome, no matter your background or experience. We all want you to be a part of the group.
+Think of it like a study group on steroids for flutter devs. The core of our community is based on the regular small group meetups and getting to know and help other Flutter devs, no matter your background. We have set weekly timed meetups to get together on discord voice chat and discuss our projects, problems we're facing, suggestions, and more. The channel acts as a way to interact between meetups. 
+
+*This concept works best if we get to know each other a little, give some commitment to the group, be present, and be willing to give back to the group when you can.* 
+
+Interactivity is key to your success here! Being a part of the active group will help you find a core group of people to help you and for you to grow with as a Flutter dev.
 
 **TO JOIN**: Head over to our server at the link below and follow the instructions at #welcome to learn how to unlock all the chocolatey server goodness. 
 Use our vanity URL that redirects to our discord invite at http://FlutterBuddies.com
@@ -182,14 +186,14 @@ All commands:
 
 Here are the posted meetup times and their group leader (if any) for now. All times and days of the week are subject to change, but you can have input on that change if you are in the meeting. 
 
-THESE TIMES MAY CHANGE, CHECK WITH THE GROUP YOU JOINED TO BE CERTAIN
+THESE TIMES MAY CHANGE, CHECK WITH THE GROUP YOU JOINED TO BE CERTAIN  
 
-These times are posted in UTC +0 and 24 hour format so they are universal.
-To find out what that time is in your local time
-Use this Google Calendar: http://calendar.flutterbuddies.com
-See this chart: https://tinyurl.com/y4h5z5h6
-See the chart in the message below: https://discordapp.com/channels/768528774991446088/770699725791690813/771026044454043658
-OR use this online calculator: https://www.thetimezoneconverter.com/
+These times are posted in UTC +0 and 24 hour format so they are universal.  
+To find out what that time is in your local time  
+Use this Google Calendar: http://calendar.flutterbuddies.com  
+See this chart: https://tinyurl.com/y4h5z5h6  
+See the chart in the message below: https://discordapp.com/channels/768528774991446088/770699725791690813/771026044454043658  
+OR use this online calculator: https://www.thetimezoneconverter.com/  
 
 * Group  |  Time & Day of the Week (UTC +0) |  leader
 * Group 1:    21:00    Tuesday    - @robots
