@@ -195,17 +195,18 @@ See this chart: https://tinyurl.com/y4h5z5h6
 See the chart in the message below: https://discordapp.com/channels/768528774991446088/770699725791690813/771026044454043658  
 OR use this online calculator: https://www.thetimezoneconverter.com/  
 
-* Group  |  Time & Day of the Week (UTC +0) |  leader
-* Group 1:    21:00    Tuesday    - @robots
-* Group 2:   17:00    Saturday   - @sly
-* Group 3:   19:00    Friday   - @joeyda3rd
-* Group 4:   05:00   Sunday   - @thehappyharis 
-* Group 5:    19:00   Friday   - @Master Creator
-* Group 6:   08:00   Saturday   - @blueishninja 
-* Group 7:   00:00   Monday (Sun pm, Mon am) - @joeyda3rd 
-* Group 8:   01:00   Wednesday   - @yashwanth_r
-* Group 9:   14:00   Thursday -  @fullerene60 
-* Group 10:  16:00   Friday -   @Rift
-* Group French:   16:30   Wednesday   - @2IIZ
-* Group Spanish:   16:00   Thursday   - @maudb 
-* Group Hindi:   13:00   Saturday   - open (you?)
+| Group         | Time & Day of the Week (UTC +0) | Leader          |
+|---------------|---------------------------------|-----------------|
+| Group 1       | 21:00 Tuesday                   | @robots         |
+| Group 2       | 17:00 Saturday                  | @sly            |
+| Group 3       | 19:00 Friday                    | @joeyda3rd      |
+| Group 4       | 05:00 Sunday                    | @thehappyharis  |
+| Group 5       | 19:00 Friday                    | @Master Creator |
+| Group 6       | 08:00 Saturday                  | @blueishninja   |
+| Group 7       | 00:00 Monday (Sun pm, Mon am)   | @joeyda3rd      |
+| Group 8       | 01:00 Wednesday                 | @yashwanth_r    |
+| Group 9       | 14:00 Thursday                  | @fullerene60    |
+| Group 10      | 16:00 Friday                    | @Rift           |
+| Group French  | 16:30 Wednesday                 | @2IIZ           |
+| Group Spanish | 16:00 Thursday                  | @maudb          |
+| Group Hindi   | 13:00 Saturday                  | open (you?)     |
