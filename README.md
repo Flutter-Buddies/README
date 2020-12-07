@@ -37,6 +37,8 @@ Think of it like a study group on steroids for flutter devs. The core of our com
 
 Interactivity is key to your success here! Being a part of the active group will help you find a core group of people to help you and for you to grow with as a Flutter dev.
 
+[Meetup Calendar](#meetup-calendar)
+
 **TO JOIN**: Head over to our server at the link below and follow the instructions at #welcome to learn how to unlock all the chocolatey server goodness. 
 Use our vanity URL that redirects to our discord invite at http://FlutterBuddies.com
 Be a leader! Join our leadership team, just let the admins know you're interested, no experience needed, just be involved
