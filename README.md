@@ -26,6 +26,7 @@ return ListTile(
      - [Pair Programming](#pair-programming)
      - [Member Voice Channels](#member-voice-channels)
 - [Meetup Calendar](#meetup-calendar)
+- [Contributing](#contributing)
 
 ## About Us
 
@@ -184,7 +185,7 @@ All commands:
 !vote-skip
   - Starts a vote to skip to the next song
 
-### Meetup Calendar
+## Meetup Calendar
 
 Here are the posted meetup times and their group leader (if any) for now. All times and days of the week are subject to change, but you can have input on that change if you are in the meeting. 
 
@@ -212,3 +213,7 @@ OR use this online calculator: https://www.thetimezoneconverter.com/
 | Group French  | 16:30 Wednesday                 | @2IIZ           |
 | Group Spanish | 16:00 Thursday                  | @maudb          |
 | Group Hindi   | 13:00 Saturday                  | open (you?)     |
+
+## Contributing
+
+If you want to contribute to some of the FlutterBuddies' projects on GitHub, great! We look forward to seeing your ideas. You can read how to best contribute in our [Contribution Guidelines](CONTRIBUTING.md).
