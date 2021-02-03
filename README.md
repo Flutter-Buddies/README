@@ -18,12 +18,11 @@ return ListTile(
      - [Server Channels](#server-channels)
      - [Public Channels](#public-channels)
      - [Member Only Channels](#member-only-channels)
-     - [Group Channels](#group-channels)
+     - [Events Channels](#event-channels)
      - [Group Projects](#group-projects)
      - [Flutter Talks](#flutter-talks)
      - [Monthly Mass Meetups](#monthly-mass-meetups)
-     - [Streaming Channels](#streaming-channels)
-     - [Pair Programming](#pair-programming)
+     - [Live Programming](#live-programming)
      - [Member Voice Channels](#member-voice-channels)
 - [Meetup Calendar](#meetup-calendar)
 - [Contributing](#contributing)
@@ -62,19 +61,17 @@ Be a leader! Join our leadership team, just let the admins know you're intereste
 ### Public Channels
 These channels are open to anyone that comes to the server, you don't have to "join" to participate in these and to watch the talks or streams. 
 
-* **#lounge** - General chat
-* **#tutorials** - Post and find Flutter and mobile dev related tutes from all over.
-* **#articles-videos** - Post and find Flutter and mobile dev related articles and videos from all over.
-* **#memes** - For funny pictures of cats and stuff
-* **#vidja-games** - Talk about video games
+* **#guest-lounge** - General chat
 * **#flutter-feed** - An automated list of content feeds from all over the Flutterverse.
 * **#reddit-flutter-dev** - An automatic list of reddit posts from r/FlutterDev.
-* **#hackathon-rules and #hackathon** - info about our hackathons.
 
 ### Member Only Channels
 These channels are locked from the public, we want you to at least consider being a part of the various group opportunities to enjoy these channels. 
 
 * **#member-lounge** - like #lounge but for the Flutter Buddies only.
+* **#tutorials** - Post and find Flutter and mobile dev related tutes from all over.
+* **#articles-videos** - Post and find Flutter and mobile dev related articles and videos from all over.
+* **#memes** - For funny pictures of cats and stuff
 * **#personal-goals** - Post your weekly, monthly, yearly, life goals. We'll help to keep you on track.
 * **#project-showcase** - Show off your apps or other projects. We're happy to give feedback if requested, but you're more likely to get feedback in meetups.
 * **#app-ideas** - Talk about app ideas, use this to test your theories.
@@ -115,8 +112,19 @@ Group projects are open source projects that anyone can contribute, but mainly a
 * **#github-names** - Put your name here to get added to the [Flutter Buddies Github Org](https://github.com/Flutter-Buddies) where our projects reside.
 * Group Project Voice chats are available for discussing a project you are working on. 
 
-### Flutter Talks
-(**NEW**) Flutter talks are regularly scheduled one or few to many edutainment talks driven by the community volunteers. Learn about things like state management, IDEs, project architecture, interesting widgets and packages, and anything that someone wants to share.
+### Monthly Mass Meetups
+(**NEW**) The monthly mass meetups are for all the Flutter Buddies to come together once a month to discuss the server, flutter, projects, and more! 
+
+* Monthly Mass Meetups are held on discord voice chat once a month on the last friday of the month.
+* **#mmm-reminder** - Get a reminder for the next upcoming MMM. **You will need to subscribe for the reminder EACH month**
+
+### Live Programming 
+
+* **Pair Programming** Pair up and program with a pal. You'll find that coding with a cuz is fun and helpful. You can flutter with a friend anytime, just hop in a wait for someone or ask around. 
+
+
+### Flutter Talks (temporarily suspended)
+Flutter talks are regularly scheduled one or few to many edutainment talks driven by the community volunteers. Learn about things like state management, IDEs, project architecture, interesting widgets and packages, and anything that someone wants to share.
 
 * Flutter talks are open to non-members to watch, but to ask questions or chat, you must be a member (see #welcome)
 * **#talks-calendar and #talks-reminders** are there for you to find a talk you're interested in and click the :white_check_mark: to get a PM reminder notification 15 minutes prior to talk.
@@ -124,21 +132,6 @@ Group projects are open source projects that anyone can contribute, but mainly a
 * **#talk-chat** - For you to talk while listening to the talk.
 * The talk voice channels will appear when something is on the schedule, join by joining the voice. Talkers will share their screens through discord's streaming service. 
 
-### Monthly Mass Meetups
-(**NEW**) The monthly mass meetups are for all the Flutter Buddies to come together once a month to discuss the server, flutter, projects, and more! 
-
-* Monthly Mass Meetups are held on discord voice chat once a month on the last friday of the month.
-* **#mmm-reminder** - Get a reminder for the next upcoming MMM. **You will need to subscribe for the reminder EACH month**
-
-### Streaming Channels 
-Streaming channels are for anyone to stream their coding or gaming or whatever. Chat is available.
-* **#become-streamer** - unlock your microphone for the streaming channels
-
-### Pair Programming
-Pair up and program with a pal. You'll find that coding with a cuz is fun and helpful. You can flutter with a friend anytime, just hop in a wait for someone or ask around. 
-
-### Member Voice Channels
-Just some general voice channels for anyone to use whenever for whatever. 
 
 * **#music-commands** - You can play any music in any voice chat you want. See the commands below, the bot will listen in this channel for your commands. You must join a voice chat before asking the bot to !join, then search youtube for the music you want and build a play list. 
 
