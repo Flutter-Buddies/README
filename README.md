@@ -3,7 +3,7 @@
 ```dart
 return ListTile(
      title: Text('Welcome to Flutter Buddies!'),
-     subtitle: Text('A community using regular online meetups to help and motivate others with
+     subtitle: Text('An fan-built community using regular online meetups to help and motivate others with
                      their flutter journey and in return receive help and motivation on yours.'),
    );
 // Flutter™ and the related logo are trademarks of Google LLC. 
@@ -18,12 +18,12 @@ return ListTile(
      - [Server Channels](#server-channels)
      - [Public Channels](#public-channels)
      - [Member Only Channels](#member-only-channels)
+     - [Live Programming](#live-programming)
      - [Events Channels](#event-channels)
      - [Group Projects](#group-projects)
      - [Flutter Talks](#flutter-talks)
      - [Monthly Mass Meetups](#monthly-mass-meetups)
-     - [Live Programming](#live-programming)
-     - [Member Voice Channels](#member-voice-channels)
+     - [Meetup Channels](#monthly-mass-meetups)
 - [Meetup Calendar](#meetup-calendar)
 - [Contributing](#contributing)
 
@@ -84,19 +84,22 @@ These channels are locked from the public, we want you to at least consider bein
 * **#self-development** - Learn how to be a better you.
 * **#flutter-jobs** - post and find jobs in Flutter.
 
-### Group Channels
+### Events Channels
+* **events-reminders** - Sign up with one click for a 15 minutre reminder for event
+* **ask-me-anything** - We'll ask for prominent flutter personalities to do an AMA. Make your requests here
+* **{Various Event Channels}** - Events channels will be posted as events are planned
+* **Event Channel** - The voice channel for meeting up for events.
+
+### Meetup Channels
 Group channels are the heart and soul of the community. This is what brings us closer together as developers. This is where the magic happens and it's fun!
 
 **Remember: This concept works best if you get to know one another, you help one another out, and you keep each other on task. The best way to accomplish this is to go to meetups regularly and to be involved in the conversation.**
 
 Check out [Meetup Calendar](#meetup-calendar) below to see the current schedule of weekly meetups.
 
-* **#join-group** - pick out a group or groups that have a time that works for you and "join" by selecting the right emoji to the bot message. You can join any group meeting without joining here, but using this will give you the ability to get group specific communications. 
-* **#group-board** - Not sure which group to join? Want to ask a question about groups? Check here. Check out the other group's chats or join a few meetups before deciding. Up to you.
-* **Group # Meetup** - This is where your groups will meet at their designated times.
-* **#group-#-text** - This is where you can add links and info while in meetup or any time to stay up to date. 
-* We want you to feel comfortable to join or unjoin any number of groups that work for your time. Don't see a time that works? Let us know, we'll make one for you. Meetings are for one hour but can go as long or short as the group desires, come and go as you need, but it's polite to stay till someone's done talking.
-* There are designated group leaders, but they don't need to be present for the meetup to occur. Someone should try to keep the meeting from stalling out, bring up topics and ask questions of others. 
+* **#bulletin-board** - Not sure which group to join? Want to ask a question about groups? Check here. Check out the other group's chats or join a few meetups before deciding. Up to you.
+* **{DAY Time UTC}** - This is where you will meetup at their designated times.
+* **#meetup-text** - This is where you can add links and info while in meetup or any time to stay up to date. 
 
 The goal for these meetups:
 1. Get to know other flutter developers.
@@ -119,9 +122,10 @@ Group projects are open source projects that anyone can contribute, but mainly a
 * **#mmm-reminder** - Get a reminder for the next upcoming MMM. **You will need to subscribe for the reminder EACH month**
 
 ### Live Programming 
-
-* **Pair Programming** Pair up and program with a pal. You'll find that coding with a cuz is fun and helpful. You can flutter with a friend anytime, just hop in a wait for someone or ask around. 
-
+* **live-coding-reminders** - Get a reminder for recurring live coding. **You will need to subscribe for the reminder EACH month**
+* **Pair Programming** - Pair up and program with a pal. You'll find that coding with a cuz is fun and helpful. You can flutter with a friend anytime, just hop in a wait for someone or ask around. 
+* **Live Programming Channels** - We'll live code one of our group projects or something.
+* **HELP!** - Go here for live help, be sure to ask around for a helper.
 
 ### Flutter Talks (temporarily suspended)
 Flutter talks are regularly scheduled one or few to many edutainment talks driven by the community volunteers. Learn about things like state management, IDEs, project architecture, interesting widgets and packages, and anything that someone wants to share.
@@ -131,7 +135,6 @@ Flutter talks are regularly scheduled one or few to many edutainment talks drive
 * **#become-talker** - Interested in talking? Let us know what you'd like to talk about? Literally anything Flutter related.
 * **#talk-chat** - For you to talk while listening to the talk.
 * The talk voice channels will appear when something is on the schedule, join by joining the voice. Talkers will share their screens through discord's streaming service. 
-
 
 * **#music-commands** - You can play any music in any voice chat you want. See the commands below, the bot will listen in this channel for your commands. You must join a voice chat before asking the bot to !join, then search youtube for the music you want and build a play list. 
 
