@@ -3,12 +3,14 @@
 ```dart
 return ListTile(
      title: Text('Welcome to Flutter Buddies!'),
-     subtitle: Text('An fan-built community using regular online meetups to help and motivate others with
+     subtitle: Text('An unofficial, fan-built community using regular online meetups to help and motivate others with
                      their flutter journey and in return receive help and motivation on yours.'),
    );
-// Flutter™ and the related logo are trademarks of Google LLC. 
-// Flutter Buddies is not affiliated with or otherwise sponsored by Google LLC.
+
 ```
+
+Flutter™ and the related logo are trademarks of Google LLC. 
+Flutter Buddies is not affiliated with or otherwise sponsored by Google LLC.
 
 ## Table of contents
 
@@ -29,13 +31,9 @@ return ListTile(
 
 ## About Us
 
-Flutter Buddies is a discord community for Flutter developers using **regular online meetups** to help and motivate others with their flutter journey and in return receive help and motivation on yours.
+Flutter Buddies is a discord community for developers who use the Flutter SDK by Google using **regular online meetups** to help and motivate others with their flutter journey and in return receive help and motivation on yours.
 
 Think of it like a study group on steroids for flutter devs. The core of our community is based on the regular small group meetups and getting to know and help other Flutter devs, no matter your background. We have set weekly timed meetups to get together on discord voice chat and discuss our projects, problems we're facing, suggestions, and more. The channel acts as a way to interact between meetups. 
-
-*This concept works best if we get to know each other a little, give some commitment to the group, be present, and be willing to give back to the group when you can.* 
-
-Interactivity is key to your success here! Being a part of the active group will help you find a core group of people to help you and for you to grow with as a Flutter dev.
 
 [Meetup Calendar](#meetup-calendar)
 
