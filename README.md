@@ -48,8 +48,7 @@ Here's some of what our server offers:
 [Meetup Calendar](#meetup-calendar)
 
 **TO JOIN**: Head over to our server at the link below and follow the instructions at #welcome to learn how to unlock all the chocolatey server goodness. 
-Use our vanity URL that redirects to our discord invite at http://FlutterBuddies.com
-Be a leader! Join our leadership team, just let the admins know you're interested, no experience needed, just be involved
+Use our vanity URL that redirects to our discord invite at http://FlutterBuddies.com  
 
 ## Social Media
 
@@ -202,21 +201,21 @@ See this chart: https://tinyurl.com/y4h5z5h6
 See the chart in the message below: https://discordapp.com/channels/768528774991446088/770699725791690813/771026044454043658  
 OR use this online calculator: https://www.thetimezoneconverter.com/  
 
-| Group         | Time & Day of the Week (UTC +0) | Leader          |
-|---------------|---------------------------------|-----------------|
-| Group 1       | 21:00 Tuesday                   | @robots         |
-| Group 2       | 17:00 Saturday                  | @sly            |
-| Group 3       | 19:00 Friday                    | @joeyda3rd      |
-| Group 4       | 05:00 Sunday                    | @thehappyharis  |
-| Group 5       | 19:00 Friday                    | @Master Creator |
-| Group 6       | 08:00 Saturday                  | @blueishninja   |
-| Group 7       | 00:00 Monday (Sun pm, Mon am)   | @joeyda3rd      |
-| Group 8       | 01:00 Wednesday                 | @yashwanth_r    |
-| Group 9       | 14:00 Thursday                  | @fullerene60    |
-| Group 10      | 16:00 Friday                    | @Rift           |
-| Group French  | 16:30 Wednesday                 | @2IIZ           |
-| Group Spanish | 16:00 Thursday                  | @maudb          |
-| Group Hindi   | 13:00 Saturday                  | open (you?)     |
+| Group         | Time & Day of the Week (UTC +0) |
+|---------------|---------------------------------|
+| Group 1       | 21:00 Tuesday                   |
+| Group 2       | 17:00 Saturday                  |
+| Group 3       | 19:00 Friday                    |
+| Group 4       | 05:00 Sunday                    |
+| Group 5       | 19:00 Friday                    |
+| Group 6       | 08:00 Saturday                  |
+| Group 7       | 00:00 Monday (Sun pm, Mon am)   |
+| Group 8       | 01:00 Wednesday                 |
+| Group 9       | 14:00 Thursday                  |
+| Group 10      | 16:00 Friday                    |
+| Group French  | 16:30 Wednesday                 | 
+| Group Spanish | 16:00 Thursday                  | 
+| Group Hindi   | 13:00 Saturday                  | 
 
 ## Contributing
 
