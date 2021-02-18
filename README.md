@@ -36,7 +36,7 @@ Flutter Buddies is a discord community for developers who use the Flutter SDK by
 Here's some of what our server offers:  
 📅 - Weekly and Monthly scheduled meetups to get together on discord voice chat to discuss our projects, problems we're facing, suggestions, and more.  
 🚀 - Group projects to learn to work as a team and learn to develop working Flutter apps, start your own project or contribute  
-🖥️ - Create your own Flutter coding group and work on homework or projects together to learn  
+🖥️ - Join or create your own Flutter coding group and work on homework or projects together to learn  
 📺 - Scheduled live programming to work on projects and to watch and learn from other's coding.  
 🔎 - Channels dedicated to topics about Flutter or mobile development to stay informed  
 👔 - Get help finding a job or finding developers to hire  
@@ -63,7 +63,6 @@ Use our vanity URL that redirects to our discord invite at http://FlutterBuddies
 * **#announcements** - A place for announcements. This channel can be hooked into your discord server.
 * **#suggestions** - Just your run-of-the-mill suggestion box.
 * **#suggested-servers** - A list of suggested servers in the discord community. Add yours to the list.
-* **#sticker-chart** - Where good Flutter Buddies get their stars and points. :star: a message to add it to the sticker chart.
 
 ### Public Channels
 These channels are open to anyone that comes to the server, you don't have to "join" to participate in these and to watch the talks or streams. 
@@ -74,24 +73,34 @@ These channels are open to anyone that comes to the server, you don't have to "j
 
 ### Member Only Channels
 These channels are locked from the public, we want you to at least consider being a part of the various group opportunities to enjoy these channels. 
-
+* **#sticker-chart** - Where good Flutter Buddies get their stars and points. :star: a message to add it to the sticker chart.
 * **#member-lounge** - like #lounge but for the Flutter Buddies only.
-* **#tutorials** - Post and find Flutter and mobile dev related tutes from all over.
-* **#articles-videos** - Post and find Flutter and mobile dev related articles and videos from all over.
 * **#memes** - For funny pictures of cats and stuff
 * **#personal-goals** - Post your weekly, monthly, yearly, life goals. We'll help to keep you on track.
 * **#project-showcase** - Show off your apps or other projects. We're happy to give feedback if requested, but you're more likely to get feedback in meetups.
 * **#app-ideas** - Talk about app ideas, use this to test your theories.
-* **#packages** - Discuss your favorite packages or the ones you've built.
 * **#code-help** - Get help finding that forgotten semicolon. 
+* **#build-ide-help** - Can't get Flutter to run in VS Code? We can help with that.
 * **#biz-help** - Get help with the biz side of things. Monetization? Naming? Marketing? You name it.
-* **#events** - Post and discover Flutter events.
 * **#polls** - Learn how the other Flutter Buddies feel about things.
 * **#fun-n-fam** - Just for personal flair, you'll enjoy any community more if people get to know you better.
 * **#self-development** - Learn how to be a better you.
 * **#flutter-jobs** - post and find jobs in Flutter.
 
+### Dev Topics Channels
+The Development topics are specific discussion to the different fields of the Flutter SDK platform
+* **#tutorials** - Post and find Flutter and mobile dev related tutes from all over.
+* **#articles-videos** - Post and find Flutter and mobile dev related articles and videos from all over.
+* **#packages** - Discuss your favorite packages or the ones you've built.
+* **#widgets** 
+* **#state-management**
+* **#ui**
+* **#animation**
+* **#architecture**
+* **#dart**
+
 ### Events Channels
+* **#events** - Post and discover Flutter events.
 * **events-reminders** - Sign up with one click for a 15 minutre reminder for event
 * **ask-me-anything** - We'll ask for prominent flutter personalities to do an AMA. Make your requests here
 * **{Various Event Channels}** - Events channels will be posted as events are planned
@@ -104,6 +113,8 @@ Group channels are the heart and soul of the community. This is what brings us c
 
 Check out [Meetup Calendar](#meetup-calendar) below to see the current schedule of weekly meetups.
 
+* **#meetup-schedule** - Our current meetup schedule, sign up here be tagged in a group
+* **#meetup-reminders** - Sign up to get 15 minute reminder before meetup starts
 * **#bulletin-board** - Not sure which group to join? Want to ask a question about groups? Check here. Check out the other group's chats or join a few meetups before deciding. Up to you.
 * **{DAY Time UTC}** - This is where you will meetup at their designated times.
 * **#meetup-text** - This is where you can add links and info while in meetup or any time to stay up to date. 
@@ -121,6 +132,7 @@ Group projects are open source projects that anyone can contribute, but mainly a
 * **#group-projects** - Here you can propose a new project or discuss which group project you'd like to join. 
 * **#github-names** - Put your name here to get added to the [Flutter Buddies Github Org](https://github.com/Flutter-Buddies) where our projects reside.
 * Group Project Voice chats are available for discussing a project you are working on. 
+* [Contribution Guidelines](CONTRIBUTING.md).
 
 ### Monthly Mass Meetups
 (**NEW**) The monthly mass meetups are for all the Flutter Buddies to come together once a month to discuss the server, flutter, projects, and more! 
@@ -216,6 +228,7 @@ OR use this online calculator: https://www.thetimezoneconverter.com/
 | Group French  | 16:30 Wednesday                 | 
 | Group Spanish | 16:00 Thursday                  | 
 | Group Hindi   | 13:00 Saturday                  | 
+| Group Arabic  | TBD                             |
 
 ## Contributing
 
