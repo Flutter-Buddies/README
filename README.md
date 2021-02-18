@@ -21,6 +21,7 @@ Flutter Buddies is not affiliated with or otherwise sponsored by Google LLC.
      - [Public Channels](#public-channels)
      - [Events Channels](#events-channels)
      - [Member Only Channels](#member-only-channels)
+     - [Dev Topics Channels](#dev-topics-channels)
      - [Live Programming](#live-programming)
      - [Group Projects](#group-projects)
      - [~~Flutter Talks~~ Temporarily suspened](#flutter-talks)
@@ -59,10 +60,11 @@ Use our vanity URL that redirects to our discord invite at http://FlutterBuddies
 
 ### Server Channels
 
-* **#welcome** - Just a welcome channel, *but it inlcudes the key to unlock all the hidden channels*, you must claim the *"Flutter Buddy"* server role to join a group and enjoy the server at it's max potential by giving a thumbs up to the bot message. There's no cost or obligation, we just want to encourage you to try and get involved where you can so you can get the most out of the community. No formal commitment required, you get out what you put in.
+* **#welcome** - Just a welcome channel with the quick discription above.
+* **#unlock-channels** **You MUST go here to unlock hidden channels** This unlocks all the servery goodness. 
+* **#readme** - this.
 * **#announcements** - A place for announcements. This channel can be hooked into your discord server.
 * **#suggestions** - Just your run-of-the-mill suggestion box.
-* **#suggested-servers** - A list of suggested servers in the discord community. Add yours to the list.
 
 ### Public Channels
 These channels are open to anyone that comes to the server, you don't have to "join" to participate in these and to watch the talks or streams. 
@@ -70,6 +72,7 @@ These channels are open to anyone that comes to the server, you don't have to "j
 * **#guest-lounge** - General chat
 * **#flutter-feed** - An automated list of content feeds from all over the Flutterverse.
 * **#reddit-flutter-dev** - An automatic list of reddit posts from r/FlutterDev.
+* **#suggested-servers** - A list of suggested servers in the discord community. Add yours to the list.
 
 ### Member Only Channels
 These channels are locked from the public, we want you to at least consider being a part of the various group opportunities to enjoy these channels. 
@@ -146,7 +149,7 @@ Group projects are open source projects that anyone can contribute, but mainly a
 * **Live Programming Channels** - We'll live code one of our group projects or something.
 * **HELP!** - Go here for live help, be sure to ask around for a helper.
 
-### Flutter Talks (temporarily suspended)
+### ~~Flutter Talks~~ (temporarily suspended)
 Flutter talks are regularly scheduled one or few to many edutainment talks driven by the community volunteers. Learn about things like state management, IDEs, project architecture, interesting widgets and packages, and anything that someone wants to share.
 
 * Flutter talks are open to non-members to watch, but to ask questions or chat, you must be a member (see #welcome)
