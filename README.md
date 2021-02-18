@@ -61,8 +61,8 @@ Use our vanity URL that redirects to our discord invite at http://FlutterBuddies
 ### Server Channels
 
 * **#welcome** - Just a welcome channel with the quick discription above.
-* **#unlock-channels** **You MUST go here to unlock hidden channels** This unlocks all the servery goodness. 
-* **#readme** - this.
+* **#unlock-channels** - This unlocks all the servery goodness. **You MUST go here to unlock hidden channels**
+* **#readme** - README
 * **#announcements** - A place for announcements. This channel can be hooked into your discord server.
 * **#suggestions** - Just your run-of-the-mill suggestion box.
 
@@ -227,7 +227,7 @@ OR use this online calculator: https://www.thetimezoneconverter.com/
 | Group 7       | 00:00 Monday (Sun pm, Mon am)   |
 | Group 8       | 01:00 Wednesday                 |
 | Group 9       | 14:00 Thursday                  |
-| Group 10      | 16:00 Friday                    |
+| STONECODE     | 16:00 Friday                    |
 | Group French  | 16:30 Wednesday                 | 
 | Group Spanish | 16:00 Thursday                  | 
 | Group Hindi   | 13:00 Saturday                  | 
