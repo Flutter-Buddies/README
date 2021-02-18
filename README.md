@@ -48,7 +48,7 @@ Here's some of what our server offers:
 
 [Meetup Calendar](#meetup-calendar)
 
-**TO JOIN**: Head over to our server at the link below and follow the instructions at #welcome to learn how to unlock all the chocolatey server goodness.  
+**TO JOIN**: Head over to our server at the link below and follow the instructions at #welcome to learn how to unlock all the server channels.  
 Use our vanity URL that redirects to our discord invite at http://FlutterBuddies.com  
 
 ## Social Media
