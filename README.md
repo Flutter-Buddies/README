@@ -31,9 +31,19 @@ Flutter Buddies is not affiliated with or otherwise sponsored by Google LLC.
 
 ## About Us
 
-Flutter Buddies is a discord community for developers who use the Flutter SDK by Google using **regular online meetups** to help and motivate others with their flutter journey and in return receive help and motivation on yours.
+Flutter Buddies is a discord community for developers who use the Flutter SDK by Google using **regular online meetups** to help and motivate others with their flutter journey and in return receive help and motivation on yours. A fun networking group of Flutter developers. Think of it like a study group on steroids for flutter developers.  We encourage getting to know and help everyone, no matter your background. 
 
-Think of it like a study group on steroids for flutter devs. The core of our community is based on the regular small group meetups and getting to know and help other Flutter devs, no matter your background. We have set weekly timed meetups to get together on discord voice chat and discuss our projects, problems we're facing, suggestions, and more. The channel acts as a way to interact between meetups. 
+Here's some of what our server offers:  
+📅 - Weekly and Monthly scheduled meetups to get together on discord voice chat to discuss our projects, problems we're facing, suggestions, and more.  
+🚀 - Group projects to learn to work as a team and learn to develop working Flutter apps, start your own project or contribute  
+🖥️ - Create your own Flutter coding group and work on homework or projects together to learn  
+📺 - Scheduled live programming to work on projects and to watch and learn from other's coding.  
+🔎 - Channels dedicated to topics about Flutter or mobile development to stay informed  
+👔 - Get help finding a job or finding developers to hire  
+🧭 - Help for those that need a little push  
+🏋🏿 - Goal setting and followup  
+🥳 - Live Flutter events and watch parties  
+🙌 - Much more!  
 
 [Meetup Calendar](#meetup-calendar)
 
