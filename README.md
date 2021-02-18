@@ -218,20 +218,20 @@ OR use this online calculator: https://www.thetimezoneconverter.com/
 
 | Group         | Time & Day of the Week (UTC +0) |
 |---------------|---------------------------------|
-| Group 1       | 21:00 Tuesday                   |
-| Group 2       | 17:00 Saturday                  |
-| Group 3       | 19:00 Friday                    |
-| Group 4       | 05:00 Sunday                    |
-| Group 5       | 19:00 Friday                    |
-| Group 6       | 08:00 Saturday                  |
-| Group 7       | 00:00 Monday (Sun pm, Mon am)   |
-| Group 8       | 01:00 Wednesday                 |
-| Group 9       | 14:00 Thursday                  |
+|               | 05:00 Sunday                    |
+|               | 00:00 Monday (Sun pm, Mon am)   |
+|               | 21:00 Tuesday                   |
+|               | 01:00 Wednesday                 |
+|               | 14:00 Thursday                  |
+|               | 08:00 Saturday                  |
+|               | 17:00 Saturday                  |
+|               | 19:00 Friday                    |
 | STONECODE     | 16:00 Friday                    |
 | Group French  | 16:30 Wednesday                 | 
 | Group Spanish | 16:00 Thursday                  | 
 | Group Hindi   | 13:00 Saturday                  | 
 | Group Arabic  | TBD                             |
+|---------------|---------------------------------|
 
 ## Contributing
 
