@@ -104,8 +104,8 @@ The Development topics are specific discussion to the different fields of the Fl
 
 ### Events Channels
 * **#events** - Post and discover Flutter events.
-* **events-reminders** - Sign up with one click for a 15 minutre reminder for event
-* **ask-me-anything** - We'll ask for prominent flutter personalities to do an AMA. Make your requests here
+* **#events-reminders** - Sign up with one click for a 15 minutre reminder for event
+* **#ask-me-anything** - We'll ask for prominent flutter personalities to do an AMA. Make your requests here
 * **{Various Event Channels}** - Events channels will be posted as events are planned
 * **Event Channel** - The voice channel for meeting up for events.
 
