@@ -15,8 +15,8 @@ Flutter Buddies is not affiliated with or otherwise sponsored by Google LLC.
 ## Table of contents
 
 - [About Us](#about-us)
-- [Social Media](#social-media)
 - [To Join](#to-join)
+- [Social Media](#social-media)
 - [Channels And Their Purpose](#channels-and-their-purpose)
      - [Server Channels](#server-channels)
      - [Public Channels](#public-channels)
