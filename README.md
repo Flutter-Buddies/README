@@ -51,7 +51,7 @@ Here's some of what our server offers:
 
 ## TO JOIN
 * Head over to our server at the link below and follow the instructions at #welcome to learn how to unlock all the server channels.   
-Use our vanity URL that redirects to our discord invite at http://FlutterBuddies.com  
+Use our invite link at https://discord.com/invite/he2BNQN 
 
 ## Social Media
 
