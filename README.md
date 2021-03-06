@@ -2,61 +2,83 @@
 
 ```dart
 return ListTile(
-     title: Text('Welcome to Flutter Buddies!'),
-     subtitle: Text('An unofficial, fan-built community using regular online meetups to help and motivate others with
-                     their flutter journey and in return receive help and motivation on yours.'),
-   );
+  title: Text('Welcome to Flutter Buddies!'),
+  subtitle: Text(
+    '''An unofficial, fan-built community creating open-source projects,
+    hosting online meetups, helping and motivating each other
+    on their Flutter journey.'''
+  ),
+);
 
 ```
 
-Flutter™ and the related logo are trademarks of Google LLC. 
-Flutter Buddies is not affiliated with or otherwise sponsored by Google LLC.
+_Flutter™ and the related logo are trademarks of Google LLC.
+Flutter Buddies is not affiliated with or otherwise sponsored by Google LLC._
 
 ## Table of contents
 
 - [About Us](#about-us)
-- [To Join](#to-join)
+- [Join Us](#join-us)
 - [Social Media](#social-media)
+- [Projects](#published-projects)
+  - [Published](#published)
+  - [Unpublished](#unpublished)
 - [Channels And Their Purpose](#channels-and-their-purpose)
-     - [Server Channels](#server-channels)
-     - [Public Channels](#public-channels)
-     - [Events Channels](#events-channels)
-     - [Member Only Channels](#member-only-channels)
-     - [Dev Topics Channels](#dev-topics-channels)
-     - [Live Programming](#live-programming)
-     - [Group Projects](#group-projects)
-     - [~~Flutter Talks~~ Temporarily suspened](#flutter-talks)
-     - [Monthly Mass Meetups](#monthly-mass-meetups)
-     - [Meetup Channels](#monthly-mass-meetups)
-- [Meetup Calendar](#meetup-calendar)
+  - [Server Channels](#server-channels)
+  - [Public Channels](#public-channels)
+  - [Events Channels](#events-channels)
+  - [Member Only Channels](#member-only-channels)
+  - [Dev Topics Channels](#dev-topics-channels)
+  - [Live Programming](#live-programming)
+  - [Group Projects](#group-projects)
+  - [~~Flutter Talks~~ Temporarily suspened](#flutter-talks)
+  - [Monthly Mass Meetups](#monthly-mass-meetups)
 - [Contributing](#contributing)
 
 ## About Us
 
-Flutter Buddies is a discord community for developers who use the Flutter SDK by Google using **regular online meetups** to help and motivate others with their flutter journey and in return receive help and motivation on yours. A fun networking group of Flutter developers. Think of it like a study group on steroids for flutter developers.  We encourage getting to know and help everyone, no matter your background. 
+Looking to meet other Flutter developers or enthusiasts? Need some help? Want to collaborate? Or just want to see what the fuss is about? Then this is the community for you.
 
-Here's some of what our server offers:  
-📅 - Weekly and Monthly scheduled meetups to get together on discord voice chat to discuss our projects, problems we're facing, suggestions, and more.  
-🚀 - Group projects to learn to work as a team and learn to develop working Flutter apps, start your own project or contribute  
-🖥️ - Join or create your own Flutter coding group and work on homework or projects together to learn  
-📺 - Scheduled live programming to work on projects and to watch and learn from other's coding.  
-🔎 - Channels dedicated to topics about Flutter or mobile development to stay informed  
-👔 - Get help finding a job or finding developers to hire  
-🧭 - Help for those that need a little push  
-🏋🏿 - Goal setting and followup  
-🥳 - Live Flutter events and watch parties  
-🙌 - Much more!  
+Flutter Buddies is a Discord community for developers who use the Flutter SDK by Google. We are a fun networking group creating open-source projects together, hosting online meetups, helping and motivating each other on their Flutter journey. Think of it like a study group on steroids for Flutter developers. We encourage getting to know and help everyone, no matter your background.
 
-[Meetup Calendar](#meetup-calendar)
+**Here's a quick tour of what is available**:
 
-## TO JOIN
-* Head over to our server at the link below and follow the instructions at #welcome to learn how to unlock all the server channels.   
-Use our invite link at https://discord.com/invite/he2BNQN 
+- :mag_right: Channels dedicated to topics about Flutter and getting help with your code
+- 	:rocket: Group projects to learn to work as a team
+- 	:date: Regular scheduled meetups to get together on voice chat to discuss a project, problems, suggestions, and more
+- :tv: Scheduled live programming to work on projects and learn from others
+- :briefcase: Get help finding a job or finding developers to hire
+- :partying_face: Live Flutter events and watch parties
 
+## Join Us
+
+Use our [invite link](https://discord.com/invite/he2BNQN) and follow the instructions at #welcome to learn how to unlock all the server channels.
 ## Social Media
 
 [YouTube](https://www.youtube.com/channel/UCxBpCSJUJFj26S-4KwNNR1w)  
 [Twitter](https://twitter.com/Flutter_Buddies)
+
+## Projects
+
+Worry not if you never collaborated on a project before, we got you covered. A lot of us came here as complete novices and are now regular contributors. We will help you learn anything you need along the way. You can find all of our projects [here](https://github.com/Flutter-Buddies) and discuss them at Discord.
+### Published
+
+So far we have already published some of our group projects. See their repository for more details.
+
+- **Tic-Tac-No**
+  - repository: https://github.com/Flutter-Buddies/tic_tac_no
+  - Google Play: https://play.google.com/store/apps/details?id=com.flutterbuddies.tic_tac_no
+- **Sudoku-Solver**
+  - repository: https://github.com/Flutter-Buddies/sudoku-solver
+  - Google Play: https://play.google.com/store/apps/details?id=com.flutterbuddies.sudoku_solver
+
+## Unpublished
+
+- **Community App**: https://github.com/Flutter-Buddies/App
+- **Punk Messenger**: https://github.com/Flutter-Buddies/Punk-Messenger
+- **Your Destiny**: https://github.com/Flutter-Buddies/Your-Destiny
+- **Redraw**: https://github.com/Flutter-Buddies/redraw
+- and more ...
 
 ## Channels And Their Purpose
 
@@ -204,36 +226,6 @@ All commands:
   - Stop the current song
 !vote-skip
   - Starts a vote to skip to the next song
-
-## Meetup Calendar
-
-Here are the posted meetup times and their group leader (if any) for now. All times and days of the week are subject to change, but you can have input on that change if you are in the meeting. 
-
-THESE TIMES MAY CHANGE, CHECK WITH THE GROUP YOU JOINED TO BE CERTAIN  
-
-These times are posted in UTC +0 and 24 hour format so they are universal.  
-To find out what that time is in your local time  
-Use this Google Calendar: http://calendar.flutterbuddies.com  
-See this chart: https://tinyurl.com/y4h5z5h6  
-See the chart in the message below: https://discordapp.com/channels/768528774991446088/770699725791690813/771026044454043658  
-OR use this online calculator: https://www.thetimezoneconverter.com/  
-
-| Group         | Time & Day of the Week (UTC +0) |
-|---------------|---------------------------------|
-|               | 05:00 Sunday                    |
-|               | 00:00 Monday (Sun pm, Mon am)   |
-|               | 21:00 Tuesday                   |
-|               | 01:00 Wednesday                 |
-|               | 14:00 Thursday                  |
-|               | 08:00 Saturday                  |
-|               | 17:00 Saturday                  |
-|               | 19:00 Friday                    |
-| STONECODE     | 16:00 Friday                    |
-| Group French  | 16:30 Wednesday                 | 
-| Group Spanish | 16:00 Thursday                  | 
-| Group Hindi   | 13:00 Saturday                  | 
-| Group Arabic  | TBD                             |
-|---------------|---------------------------------|
 
 ## Contributing
 
