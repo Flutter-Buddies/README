@@ -72,7 +72,7 @@ So far we have already published some of our group projects. See their repositor
   - repository: https://github.com/Flutter-Buddies/sudoku-solver
   - Google Play: https://play.google.com/store/apps/details?id=com.flutterbuddies.sudoku_solver
 
-## Unpublished
+### Unpublished
 
 - **Community App**: https://github.com/Flutter-Buddies/App
 - **Punk Messenger**: https://github.com/Flutter-Buddies/Punk-Messenger
