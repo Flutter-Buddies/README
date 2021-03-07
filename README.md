@@ -60,7 +60,7 @@ Use our [invite link](https://discord.com/invite/he2BNQN) and follow the instruc
 
 ## Projects
 
-Worry not if you never collaborated on a project before, we got you covered. A lot of us came here as complete novices and are now regular contributors. We will help you learn anything you need along the way. You can find all of our projects [here](https://github.com/Flutter-Buddies) and discuss them at Discord.
+Worry not if you've never collaborated on a project before, we've got you covered. A lot of us came here as complete novices and are now regular contributors. We will help you learn anything you need along the way. You can find all of our projects [here](https://github.com/Flutter-Buddies) and discuss them at Discord.
 ### Published
 
 So far we have already published some of our group projects. See their repository for more details.
@@ -99,7 +99,7 @@ These channels are open to anyone that comes to the server, you don't have to "j
 * **#suggested-servers** - A list of suggested servers in the discord community. Add yours to the list.
 
 ### Member Only Channels
-These channels are locked from the public, we want you to at least consider being a part of the various group opportunities to enjoy these channels. 
+Go to **#unlock-channels** to get access. 
 * **#sticker-chart** - Where good Flutter Buddies get their stars and points. :star: a message to add it to the sticker chart.
 * **#member-lounge** - like #lounge but for the Flutter Buddies only.
 * **#memes** - For funny pictures of cats and stuff
@@ -119,12 +119,12 @@ The Development topics are specific discussion to the different fields of the Fl
 * **#tutorials** - Post and find Flutter and mobile dev related tutes from all over.
 * **#articles-videos** - Post and find Flutter and mobile dev related articles and videos from all over.
 * **#packages** - Discuss your favorite packages or the ones you've built.
-* **#widgets** 
-* **#state-management**
-* **#ui**
-* **#animation**
-* **#architecture**
-* **#dart**
+* **#widgets** - Talk about all Flutter widgets from `Container` to `BouncingScrollPhysics`.
+* **#state-management** - We all have your favourites and this is the place to discuss why :)
+* **#ui** - Want some advice about the general UI of your apps or can't decide on the best icon? This is a good place to find answers.
+* **#animation** - Show off your awesome animation or talk about the best way to animate something
+* **#architecture** - For those looking to talk about how to write DRY and clean code in Flutter apps
+* **#dart** - Channel for Dart specific disucssions.
 
 ### Events Channels
 * **#events** - Post and discover Flutter events.
@@ -154,7 +154,7 @@ The goal for these meetups:
 5. Stay motivated and keep others motivated.
 
 ### Group Projects
-Group projects are open source projects that anyone can contribute, but mainly are headed by the small meetup groups. This gives you something fun to do with other devs and teaches you how to participate in a group project. Be ambitious, build something great, have fun and work with other devs. 
+Group projects are open source projects that anyone can contribute to. This gives you something fun to do with other devs and teaches you how to participate in a group project. Be ambitious, build something great, have fun and work with other devs. 
 
 * **#group-projects** - Here you can propose a new project or discuss which group project you'd like to join. 
 * **#github-names** - Put your name here to get added to the [Flutter Buddies Github Org](https://github.com/Flutter-Buddies) where our projects reside.
@@ -162,7 +162,7 @@ Group projects are open source projects that anyone can contribute, but mainly a
 * [Contribution Guidelines](CONTRIBUTING.md).
 
 ### Monthly Mass Meetups
-(**NEW**) The monthly mass meetups are for all the Flutter Buddies to come together once a month to discuss the server, flutter, projects, and more! 
+The monthly mass meetups are for all the Flutter Buddies to come together once a month to discuss the server, flutter, projects, and more! 
 
 * Monthly Mass Meetups are held on discord voice chat once a month on the last friday of the month.
 * **#mmm-reminder** - Get a reminder for the next upcoming MMM. **You will need to subscribe for the reminder EACH month**
