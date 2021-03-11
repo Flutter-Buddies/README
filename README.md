@@ -75,6 +75,7 @@ So far we have already published some of our group projects. See their repositor
 ### Unpublished
 
 - **Community App**: https://github.com/Flutter-Buddies/App
+  - Check out the [Medium article](https://medium.com/flutter-buddies/your-first-contribution-to-flutter-buddies-ef6afd39d0c3) on how to contribute your Profile Widget
 - **Punk Messenger**: https://github.com/Flutter-Buddies/Punk-Messenger
 - **Your Destiny**: https://github.com/Flutter-Buddies/Your-Destiny
 - **Redraw**: https://github.com/Flutter-Buddies/redraw
